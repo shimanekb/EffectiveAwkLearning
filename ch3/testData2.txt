@@ -1,0 +1,7 @@
+Month        Item#	Description					Count
+Jan          1		somthing like a thing.		2
+Jan          2		Some item.					0
+Nov          3		A nick nack					1
+Nov          4      Just a thing.               2
+Jul          5      Nothing.                    100
+Dec          6      Justice or not.             3
