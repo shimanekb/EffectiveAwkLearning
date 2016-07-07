@@ -1,0 +1,6 @@
+Item#	Description					Count
+1		somthing like a thing.		2
+2		Some item.					0
+3		A nick nack					1
+
+This line contains no numbers
